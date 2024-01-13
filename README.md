@@ -3,12 +3,5 @@
 
 # Screenshots
 
-![](screenshots/home.jpg)
-![](screenshots/course_details.jpg)
-![](screenshots/appy.jpg)
-![](screenshots/qualification.jpg)
-![](screenshots/qualification2.jpg)
-![](screenshots/application_form.jpg)
-![](screenshots/form2.jpg)
-![](screenshots/news.jpg)
+<img src="screenshots/home.jpg" width="100" height="100" >
 
