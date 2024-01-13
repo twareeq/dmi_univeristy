@@ -3,5 +3,5 @@
 
 # Screenshots
 
-<img src="screenshots/home.jpg" width="100" height="100" >
+<img src="screenshots/home.jpg" width="200" height="300" >
 
